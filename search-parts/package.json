@@ -17,7 +17,7 @@
         "@fluentui/react-file-type-icons": "8.11.3",
         "@fluentui/react-theme-provider": "0.19.16",
         "@iconify/react": "^4.1.1",
-        "@microsoft/mgt-components": "4.1.0",
+        "@microsoft/mgt-components": "4.2.1",
         "@microsoft/mgt-element": "4.1.0",
         "@microsoft/mgt-sharepoint-provider": "4.1.0",
         "@microsoft/sp-adaptive-card-extension-base": "1.18.2",
